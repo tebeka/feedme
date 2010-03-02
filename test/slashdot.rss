@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="http://slashdot.org/">
+<title>Slashdot</title>
+<link>http://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2009, Geeknet, Inc.  All Rights Reserved.</dc:rights>
+<dc:date>2010-03-02T06:40:20+00:00</dc:date>
+<dc:publisher>Geeknet, Inc.</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://hardware.slashdot.org/story/10/03/02/038209/New-IO-Standard-Bids-To-Replace-Mini-PCI-Express?from=rss" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/10/03/02/0114236/Chilean-Earthquake-Shortened-Earths-Day?from=rss" />
+  <rdf:li rdf:resource="http://mobile.slashdot.org/story/10/03/02/0329249/Google-Awarded-Broad-Patent-For-Location-Based-Advertising?from=rss" />
+  <rdf:li rdf:resource="http://it.slashdot.org/story/10/03/02/0047249/Aurora-Attack-mdash-Resistance-Is-Futile-Pretty-Much?from=rss" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/10/03/01/2250248/Newborns-Blood-Used-To-Build-Secret-DNA-Database?from=rss" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/10/03/01/221252/Patent-Markings-Lawsuits-Could-Run-Into-the-Trillions?from=rss" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/10/03/01/214246/Google-Acquires-Online-Image-Editing-Tool-Picnik?from=rss" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/10/03/01/210234/US-Military-Surrenders-To-Social-Media-Changes-Access-Restrictions?from=rss" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/10/03/01/2053246/Another-ACTA-Leak-Discloses-Individual-Country-Data?from=rss" />
+  <rdf:li rdf:resource="http://games.slashdot.org/story/10/03/01/1855252/Another-Study-Attacks-Violent-Video-Games-Claims-To-Be-Conclusive?from=rss" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/10/03/01/1820201/New-Type-of-Dinosaur-Unearthed?from=rss" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/10/03/01/180243/Microsoft-Behind-Google-Complaints-To-EC?from=rss" />
+  <rdf:li rdf:resource="http://slashdot.org/story/10/03/01/1714255/AMD-Intel-and-NVIDIA-Over-the-Next-10-Years?from=rss" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/10/03/01/172216/Tracking-Water-Molecules-Could-Unlock-Secrets?from=rss" />
+  <rdf:li rdf:resource="http://books.slashdot.org/story/10/03/01/1435219/Design-and-Evaluation-of-Central-Control-Room-Operations?from=rss" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="http://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+
+<image rdf:about="http://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>http://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>http://slashdot.org/</link>
+</image>
+
+<item rdf:about="http://hardware.slashdot.org/story/10/03/02/038209/New-IO-Standard-Bids-To-Replace-Mini-PCI-Express?from=rss">
+<title>New I/O Standard Bids To Replace Mini PCI Express</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/7qbczhpwlyw/New-IO-Standard-Bids-To-Replace-Mini-PCI-Express</link>
+<description>DeviceGuru writes "LinuxDevices reports that a group of companies today unveiled &amp;mdash; and demonstrated products based on &amp;mdash; a tiny new PCI Express expansion standard. Although it's somewhat larger than the PCI Express Mini Card, the tiny new 43mm x 65mm FeaturePak card's high density 230-pin edgecard connector provides twice the number of PCI Express and USB 2.0 channels to the host computer, plus 100 lines dedicated to general purpose I/O, of which 34 signal pairs are implemented with enhanced isolation for use in applications such as gigabit Ethernet or high-precision analog I/O. While FeaturePaks will certainly be used in all sorts of embedded devices (medical instruments, test equipment, etc.), the tiny cards could also be used for developing configurable consumer devices, for example to add an embedded firewall/router or security processor to laptop or notebook computers, or for modular functionality in TV set-top-boxes and Internet edge devices." The president of Diamond Systems, which invented the new card, said "Following the FeaturePak initiative's initial launch, we intend to turn the FeaturePak specification, trademark, and logo over to a suitable standards organization so it can become an industry-wide, open-architecture, embedded standard" (but to use the logo you have to join the organization).&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/10/03/02/038209/New-IO-Standard-Bids-To-Replace-Mini-PCI-Express?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=10/03/02/038209"&gt;&lt;/a&gt;&lt;a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F10%2F03%2F02%2F038209%2FNew-IO-Standard-Bids-To-Replace-Mini-PCI-Express" target="_blank" title="Share on Facebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+   
+      &lt;a href="http://twitter.com/home?status=New+I%2FO+Standard+Bids+To+Replace+Mini+PCI+Express%3A+http%3A%2F%2Fbit.ly%2FdwGCtK" target="_blank" title="Share on Twitter"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/10/03/02/038209/New-IO-Standard-Bids-To-Replace-Mini-PCI-Express?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/9YK2e_f9QqGVhzrNrkR42uOa-Ys/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/9YK2e_f9QqGVhzrNrkR42uOa-Ys/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+&lt;a href="http://feedads.g.doubleclick.net/~at/9YK2e_f9QqGVhzrNrkR42uOa-Ys/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/9YK2e_f9QqGVhzrNrkR42uOa-Ys/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/7qbczhpwlyw" height="1" width="1"/&gt;</description>
+<dc:creator>kdawson</dc:creator>
+<dc:date>2010-03-02T05:58:00+00:00</dc:date>
+<dc:subject>inputdev</dc:subject>
+<slash:department>lame-name</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>10</slash:comments>
+<slash:hit_parade>10,9,8,7,2,2,0</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/story/10/03/02/038209/New-IO-Standard-Bids-To-Replace-Mini-PCI-Express?from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://science.slashdot.org/story/10/03/02/0114236/Chilean-Earthquake-Shortened-Earths-Day?from=rss">
+<title>Chilean Earthquake Shortened Earth's Day</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/sQzQl8-Fiq0/Chilean-Earthquake-Shortened-Earths-Day</link>
+<description>ailnlv writes "Days on Earth just got shorter. The recent earthquake in Chile shifted the planet's axis by about 8 cm and shortened days by 1.26 microseconds 'The changes can be modeled, though they're difficult to detect physically given their small size... Some changes may be more obvious, and islands may have shifted... Santa Maria Island off the coast near Concepcion, Chile&amp;rsquo;s second-largest city, may have been raised 2 meters (6 feet) as a result of the latest quake...'"&lt;p&gt;&lt;a href="http://science.slashdot.org/story/10/03/02/0114236/Chilean-Earthquake-Shortened-Earths-Day?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=10/03/02/0114236"&gt;&lt;/a&gt;&lt;a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F10%2F03%2F02%2F0114236%2FChilean-Earthquake-Shortened-Earths-Day" target="_blank" title="Share on Facebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+   
+      &lt;a href="http://twitter.com/home?status=Chilean+Earthquake+Shortened+Earth's+Day%3A+http%3A%2F%2Fbit.ly%2Fbtbnwi" target="_blank" title="Share on Twitter"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/10/03/02/0114236/Chilean-Earthquake-Shortened-Earths-Day?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/WcUUNrbQAKCLtBaBl6Lsq55VZGo/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/WcUUNrbQAKCLtBaBl6Lsq55VZGo/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+&lt;a href="http://feedads.g.doubleclick.net/~at/WcUUNrbQAKCLtBaBl6Lsq55VZGo/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/WcUUNrbQAKCLtBaBl6Lsq55VZGo/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/sQzQl8-Fiq0" height="1" width="1"/&gt;</description>
+<dc:creator>kdawson</dc:creator>
+<dc:date>2010-03-02T04:30:00+00:00</dc:date>
+<dc:subject>earth</dc:subject>
+<slash:department>ice-skater-effect</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>97</slash:comments>
+<slash:hit_parade>97,96,83,54,18,7,3</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/10/03/02/0114236/Chilean-Earthquake-Shortened-Earths-Day?from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://mobile.slashdot.org/story/10/03/02/0329249/Google-Awarded-Broad-Patent-For-Location-Based-Advertising?from=rss">
+<title>Google Awarded Broad Patent For Location-Based Advertising</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/FUBbJMO3yqw/Google-Awarded-Broad-Patent-For-Location-Based-Advertising</link>
+<description>Mashable has a report of a patent that just issued (6-1/2 years after filing) &amp;mdash; apparently Google now has a lock on location-based advertising. It's not clear that the search company intends to assert the patent against any other companies (such as emerging rival Apple), but it's useful as leverage. Here is the patent.&lt;p&gt;&lt;a href="http://mobile.slashdot.org/story/10/03/02/0329249/Google-Awarded-Broad-Patent-For-Location-Based-Advertising?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=10/03/02/0329249"&gt;&lt;/a&gt;&lt;a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fmobile.slashdot.org%2Fstory%2F10%2F03%2F02%2F0329249%2FGoogle-Awarded-Broad-Patent-For-Location-Based-Advertising" target="_blank" title="Share on Facebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+   
+      &lt;a href="http://twitter.com/home?status=Google+Awarded+Broad+Patent+For+Location-Based+Advertising%3A+http%3A%2F%2Fbit.ly%2F9cYZ4D" target="_blank" title="Share on Twitter"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://mobile.slashdot.org/story/10/03/02/0329249/Google-Awarded-Broad-Patent-For-Location-Based-Advertising?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/xMm6gS64JaN0zYeg_m3YJWFCPwE/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/xMm6gS64JaN0zYeg_m3YJWFCPwE/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+&lt;a href="http://feedads.g.doubleclick.net/~at/xMm6gS64JaN0zYeg_m3YJWFCPwE/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/xMm6gS64JaN0zYeg_m3YJWFCPwE/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/FUBbJMO3yqw" height="1" width="1"/&gt;</description>
+<dc:creator>kdawson</dc:creator>
+<dc:date>2010-03-02T03:51:00+00:00</dc:date>
+<dc:subject>advertising</dc:subject>
+<slash:department>you-are-here-and-we-own-you</slash:department>
+<slash:section>mobile</slash:section>
+<slash:comments>30</slash:comments>
+<slash:hit_parade>30,27,24,15,3,0,0</slash:hit_parade>
+<feedburner:origLink>http://mobile.slashdot.org/story/10/03/02/0329249/Google-Awarded-Broad-Patent-For-Location-Based-Advertising?from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://it.slashdot.org/story/10/03/02/0047249/Aurora-Attack-mdash-Resistance-Is-Futile-Pretty-Much?from=rss">
+<title>Aurora Attack &amp;mdash; Resistance Is Futile, Pretty Much</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/94cdaLTpYV8/Aurora-Attack-mdash-Resistance-Is-Futile-Pretty-Much</link>
+<description>eldavojohn writes "Do you have branch offices in China? iSec has published a new report (PDF) outlining the severity of the attacks on Google.cn, allegedly by the Chinese government, dubbed 'Aurora' attacks. Up to 100 companies were victims, and some are speculating that resistance to such attacks is futile. The report lays out the shape of the attacks &amp;mdash; which were customized per-company based on installed vulnerable software and antivirus protection: '1. The attacker socially engineers a victim, often in an overseas office, to visit a malicious website. 2. This website uses a browser vulnerability to load custom malware on the initial victim's machine. 3. The malware calls out to a control server, likely identified by a dynamic DNS address. 4. The attacker escalates his privilege on the corporate Windows network, using cached or local administrator credentials. 5. The attacker attempts to access an Active Directory server to obtain the password database, which can be cracked onsite or offsite. 6. The attacker uses cracked credentials to obtain VPN access, or creates a fake user in the VPN access server. 7. At this point, the attack varies based upon the victim. The attacker may steal administrator credentials to access production systems, obtain source code from a source repository, access data hosted at the victim, or explore Intranet sites for valuable intellectual property.' The report also has pages of recommendations as well as lessons learned, which any systems administrator &amp;mdash; even those inside the US &amp;mdash; should read and take note of."&lt;p&gt;&lt;a href="http://it.slashdot.org/story/10/03/02/0047249/Aurora-Attack-mdash-Resistance-Is-Futile-Pretty-Much?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=10/03/02/0047249"&gt;&lt;/a&gt;&lt;a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fit.slashdot.org%2Fstory%2F10%2F03%2F02%2F0047249%2FAurora-Attack-mdash-Resistance-Is-Futile-Pretty-Much" target="_blank" title="Share on Facebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+   
+      &lt;a href="http://twitter.com/home?status=Aurora+Attack+%26mdash%3B+Resistance+Is+Futile%2C+Pretty+Much%3A+http%3A%2F%2Fbit.ly%2FdgZqAw" target="_blank" title="Share on Twitter"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://it.slashdot.org/story/10/03/02/0047249/Aurora-Attack-mdash-Resistance-Is-Futile-Pretty-Much?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/R2B_-mOKPnu48xbSUmVymXAGGf0/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/R2B_-mOKPnu48xbSUmVymXAGGf0/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+&lt;a href="http://feedads.g.doubleclick.net/~at/R2B_-mOKPnu48xbSUmVymXAGGf0/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/R2B_-mOKPnu48xbSUmVymXAGGf0/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/94cdaLTpYV8" height="1" width="1"/&gt;</description>
+<dc:creator>kdawson</dc:creator>
+<dc:date>2010-03-02T02:36:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>big-leagues</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>143</slash:comments>
+<slash:hit_parade>143,143,97,78,24,13,10</slash:hit_parade>
+<feedburner:origLink>http://it.slashdot.org/story/10/03/02/0047249/Aurora-Attack-mdash-Resistance-Is-Futile-Pretty-Much?from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://yro.slashdot.org/story/10/03/01/2250248/Newborns-Blood-Used-To-Build-Secret-DNA-Database?from=rss">
+<title>Newborns' Blood Used To Build Secret DNA Database</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/R-TC8yvRRto/Newborns-Blood-Used-To-Build-Secret-DNA-Database</link>
+<description>Kanel notes a summary up at New Scientist of an investigation by a Texas newspaper revealing that Texas health officials had secretly transferred hundreds of newborn babies' blood samples to the federal government to build a DNA database. Here's the (long and detailed) article in the Texas tribune. From New Scientist: "The Texas Department of State Health Services routinely collected blood samples from newborns to screen for a variety of health conditions, before throwing the samples out. But beginning in 2002, the DSHS contracted Texas A&amp;amp;M University to store blood samples for potential use in medical research. These accumulated at rate of 800,000 per year. The DSHS did not obtain permission from parents, who sued the DSHS, which settled in November 2009. Now the Tribune reveals that wasn't the end of the matter. As it turns out, between 2003 and 2007, the DSHS also gave 800 anonymized blood samples to the Armed Forces DNA Identification Laboratory to help create a national mitochondrial DNA database. This came to light after repeated open records requests filed by the Tribune turned up documents detailing the mtDNA program. Apparently, these samples were part of a larger program to build a national, perhaps international, DNA database that could be used to track down missing persons and solve cold cases."&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/10/03/01/2250248/Newborns-Blood-Used-To-Build-Secret-DNA-Database?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=10/03/01/2250248"&gt;&lt;/a&gt;&lt;a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F10%2F03%2F01%2F2250248%2FNewborns-Blood-Used-To-Build-Secret-DNA-Database" target="_blank" title="Share on Facebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+   
+      &lt;a href="http://twitter.com/home?status=Newborns'+Blood+Used+To+Build+Secret+DNA+Database%3A+http%3A%2F%2Fbit.ly%2F9qbezq" target="_blank" title="Share on Twitter"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/10/03/01/2250248/Newborns-Blood-Used-To-Build-Secret-DNA-Database?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/nGEL_IqRuu1LH9IM6LSfAZjp7wk/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/nGEL_IqRuu1LH9IM6LSfAZjp7wk/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+&lt;a href="http://feedads.g.doubleclick.net/~at/nGEL_IqRuu1LH9IM6LSfAZjp7wk/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/nGEL_IqRuu1LH9IM6LSfAZjp7wk/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/R-TC8yvRRto" height="1" width="1"/&gt;</description>
+<dc:creator>kdawson</dc:creator>
+<dc:date>2010-03-02T00:45:00+00:00</dc:date>
+<dc:subject>privacy</dc:subject>
+<slash:department>texas-baby-blood-spots</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>159</slash:comments>
+<slash:hit_parade>159,156,116,85,18,13,10</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/10/03/01/2250248/Newborns-Blood-Used-To-Build-Secret-DNA-Database?from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://yro.slashdot.org/story/10/03/01/221252/Patent-Markings-Lawsuits-Could-Run-Into-the-Trillions?from=rss">
+<title>"Patent Markings" Lawsuits Could Run Into the Trillions</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/yA7Ux1krURQ/Patent-Markings-Lawsuits-Could-Run-Into-the-Trillions</link>
+<description>bizwriter writes "The latest legal bugaboo facing manufacturers is the false patent marking suit. Using what has been until recently an obscure type of legal action, individuals and enterprising law firms have targeted large manufacturers with lawsuits that can easily run million of dollars &amp;mdash; in a case involving a drink cup manufacturer, over $10 trillion &amp;mdash; for incorrectly including patent numbers on products. Some companies named in such suits are 3M, Cisco, Pfizer, Monster Cable, and Merck. Even expired patent numbers can be actionable." Sounds like a perfect opportunity for some enlightened appeals court to inject some sense into the debate. What do you think the chances are? Note: if ever there were a page that cries out for the Readibility bookmarklet, this is it.&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/10/03/01/221252/Patent-Markings-Lawsuits-Could-Run-Into-the-Trillions?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=10/03/01/221252"&gt;&lt;/a&gt;&lt;a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F10%2F03%2F01%2F221252%2FPatent-Markings-Lawsuits-Could-Run-Into-the-Trillions" target="_blank" title="Share on Facebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+   
+      &lt;a href="http://twitter.com/home?status=%22Patent+Markings%22+Lawsuits+Could+Run+Into+the+Trillions%3A+http%3A%2F%2Fbit.ly%2FasRcAc" target="_blank" title="Share on Twitter"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/10/03/01/221252/Patent-Markings-Lawsuits-Could-Run-Into-the-Trillions?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/QQ2gb7apoO0qN4XbcBhFeFsZ0N4/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/QQ2gb7apoO0qN4XbcBhFeFsZ0N4/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+&lt;a href="http://feedads.g.doubleclick.net/~at/QQ2gb7apoO0qN4XbcBhFeFsZ0N4/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/QQ2gb7apoO0qN4XbcBhFeFsZ0N4/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/yA7Ux1krURQ" height="1" width="1"/&gt;</description>
+<dc:creator>kdawson</dc:creator>
+<dc:date>2010-03-02T00:01:00+00:00</dc:date>
+<dc:subject>patents</dc:subject>
+<slash:department>who-you-callin'-a-qui-tam</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>125</slash:comments>
+<slash:hit_parade>125,124,107,91,22,8,6</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/10/03/01/221252/Patent-Markings-Lawsuits-Could-Run-Into-the-Trillions?from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://tech.slashdot.org/story/10/03/01/214246/Google-Acquires-Online-Image-Editing-Tool-Picnik?from=rss">
+<title>Google Acquires Online Image Editing Tool Picnik</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Jene6MQ0dy8/Google-Acquires-Online-Image-Editing-Tool-Picnik</link>
+<description>Many different sources are writing to tell us about Google's acquisition of online image editing tool Picnik. "And all this leads us to today&amp;rsquo;s exciting news: we&amp;rsquo;ve just been acquired by Google! What does this mean for Picnik? It means we can think BIG. Google processes petabytes of data every day, and with their worldwide infrastructure and world-class team, it is truly the best home we could have found. Under the Google roof we&amp;rsquo;ll reach more people than ever before, impacting more lives and making more photos more awesome. What does this mean for you Picnikers? Nothing is changing right away, but Picnik now has more potential than ever before. The team that built Picnik from the grass up will continue making advanced and powerful photo-editing easier, more intuitive and more fun, so stay tuned to hear about all the cool new stuff we&amp;rsquo;re working on."&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/10/03/01/214246/Google-Acquires-Online-Image-Editing-Tool-Picnik?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=10/03/01/214246"&gt;&lt;/a&gt;&lt;a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F10%2F03%2F01%2F214246%2FGoogle-Acquires-Online-Image-Editing-Tool-Picnik" target="_blank" title="Share on Facebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+   
+      &lt;a href="http://twitter.com/home?status=Google+Acquires+Online+Image+Editing+Tool+Picnik%3A+http%3A%2F%2Fbit.ly%2FaplU6F" target="_blank" title="Share on Twitter"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/10/03/01/214246/Google-Acquires-Online-Image-Editing-Tool-Picnik?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/VapTGLSmN81LdhGLudCwsUn0f44/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/VapTGLSmN81LdhGLudCwsUn0f44/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+&lt;a href="http://feedads.g.doubleclick.net/~at/VapTGLSmN81LdhGLudCwsUn0f44/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/VapTGLSmN81LdhGLudCwsUn0f44/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Jene6MQ0dy8" height="1" width="1"/&gt;</description>
+<dc:creator>ScuttleMonkey</dc:creator>
+<dc:date>2010-03-01T23:19:00+00:00</dc:date>
+<dc:subject>google</dc:subject>
+<slash:department>google-shopping-spree</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>67</slash:comments>
+<slash:hit_parade>67,65,50,37,15,8,6</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/10/03/01/214246/Google-Acquires-Online-Image-Editing-Tool-Picnik?from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://tech.slashdot.org/story/10/03/01/210234/US-Military-Surrenders-To-Social-Media-Changes-Access-Restrictions?from=rss">
+<title>US Military Surrenders To Social Media, Changes Access Restrictions</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/tbvs-OVkBmA/US-Military-Surrenders-To-Social-Media-Changes-Access-Restrictions</link>
+<description>Thanks to a new policy by the Department of Defense, members of the US Military will now have limited access to social media sites. "According to the memorandum, members of military departments and all authorized users of the Non-classified Internet Protocol Router Network (NIPRNET) can now use the publicly accessible capabilities of various social networking and user-generated content sites, instant messaging, forums, and e-mail. This includes YouTube, Facebook, Twitter, MySpace, and others. Access to porn, gambling, or hate crime sites will remain restricted, however, and commanders can cut down on social media use if they feel the need to 'preserve operations security.'"&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/10/03/01/210234/US-Military-Surrenders-To-Social-Media-Changes-Access-Restrictions?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=10/03/01/210234"&gt;&lt;/a&gt;&lt;a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F10%2F03%2F01%2F210234%2FUS-Military-Surrenders-To-Social-Media-Changes-Access-Restrictions" target="_blank" title="Share on Facebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+   
+      &lt;a href="http://twitter.com/home?status=US+Military+Surrenders+To+Social+Media%2C+Changes+Access+Restrictions%3A+http%3A%2F%2Fbit.ly%2F9Hd4cp" target="_blank" title="Share on Twitter"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/10/03/01/210234/US-Military-Surrenders-To-Social-Media-Changes-Access-Restrictions?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/Esa-zX0538A-IByqln20BqGiLjg/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/Esa-zX0538A-IByqln20BqGiLjg/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+&lt;a href="http://feedads.g.doubleclick.net/~at/Esa-zX0538A-IByqln20BqGiLjg/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/Esa-zX0538A-IByqln20BqGiLjg/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/tbvs-OVkBmA" height="1" width="1"/&gt;</description>
+<dc:creator>ScuttleMonkey</dc:creator>
+<dc:date>2010-03-01T22:37:00+00:00</dc:date>
+<dc:subject>social</dc:subject>
+<slash:department>mcpon-needs-more-facebook-friends</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>74</slash:comments>
+<slash:hit_parade>74,70,53,41,17,9,6</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/10/03/01/210234/US-Military-Surrenders-To-Social-Media-Changes-Access-Restrictions?from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://yro.slashdot.org/story/10/03/01/2053246/Another-ACTA-Leak-Discloses-Individual-Country-Data?from=rss">
+<title>Another ACTA Leak Discloses Individual Country Data</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/u8cKEy23IPM/Another-ACTA-Leak-Discloses-Individual-Country-Data</link>
+<description>An anonymous reader writes "On the heels of the earlier leak of various country positions on ACTA transparency, today an even bigger leak
+has hit the Internet. A new European Union document [PDF] prepared several weeks ago canvasses the Internet and Civil Enforcement chapters, disclosing in complete detail the proposals from the US, and the counter-proposals from the EU, Japan, and other ACTA
+participants. The 44-page document also highlights specific concerns of individual countries on a wide range of issues including ISP liability, anti-circumvention rules, and the scope of the treaty. This is probably the most significant leak to date since it goes beyond the transparency debate to include specific country positions and proposals."&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/10/03/01/2053246/Another-ACTA-Leak-Discloses-Individual-Country-Data?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=10/03/01/2053246"&gt;&lt;/a&gt;&lt;a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F10%2F03%2F01%2F2053246%2FAnother-ACTA-Leak-Discloses-Individual-Country-Data" target="_blank" title="Share on Facebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+   
+      &lt;a href="http://twitter.com/home?status=Another+ACTA+Leak+Discloses+Individual+Country+Data%3A+http%3A%2F%2Fbit.ly%2Fb63cdy" target="_blank" title="Share on Twitter"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/10/03/01/2053246/Another-ACTA-Leak-Discloses-Individual-Country-Data?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/VrBeJJ2ZJhGtXtT-ZlrY_G_g7Xc/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/VrBeJJ2ZJhGtXtT-ZlrY_G_g7Xc/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+&lt;a href="http://feedads.g.doubleclick.net/~at/VrBeJJ2ZJhGtXtT-ZlrY_G_g7Xc/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/VrBeJJ2ZJhGtXtT-ZlrY_G_g7Xc/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/u8cKEy23IPM" height="1" width="1"/&gt;</description>
+<dc:creator>ScuttleMonkey</dc:creator>
+<dc:date>2010-03-01T21:54:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>forced-transparency</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>106</slash:comments>
+<slash:hit_parade>106,102,87,67,21,12,9</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/10/03/01/2053246/Another-ACTA-Leak-Discloses-Individual-Country-Data?from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://games.slashdot.org/story/10/03/01/1855252/Another-Study-Attacks-Violent-Video-Games-Claims-To-Be-Conclusive?from=rss">
+<title>Another Study Attacks Violent Video Games, Claims To Be "Conclusive"</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/_NmFRz9FSU4/Another-Study-Attacks-Violent-Video-Games-Claims-To-Be-Conclusive</link>
+<description>Killer Orca is one of many to tell us about a new study on the effects of violent video games on kids. The latest meta-study that analyzed research from 130 different reports claims to have "conclusively proven" that violent video games make more aggressive, less caring kids. "The team used meta-analytic procedures &amp;mdash; the statistical methods used to analyze and combine results from previous, related literature -- to test the effects of violent video game play on the behaviors, thoughts, and feelings of the individuals, ranging from elementary school-aged children to college undergraduates. [...] Anderson says the new study may be his last meta-analysis on violent video games because of its definitive findings."&lt;p&gt;&lt;a href="http://games.slashdot.org/story/10/03/01/1855252/Another-Study-Attacks-Violent-Video-Games-Claims-To-Be-Conclusive?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=10/03/01/1855252"&gt;&lt;/a&gt;&lt;a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fgames.slashdot.org%2Fstory%2F10%2F03%2F01%2F1855252%2FAnother-Study-Attacks-Violent-Video-Games-Claims-To-Be-Conclusive" target="_blank" title="Share on Facebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+   
+      &lt;a href="http://twitter.com/home?status=Another+Study+Attacks+Violent+Video+Games%2C+Claims+To+Be+%22Conclusive%22%3A+http%3A%2F%2Fbit.ly%2F9aqP1O" target="_blank" title="Share on Twitter"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://games.slashdot.org/story/10/03/01/1855252/Another-Study-Attacks-Violent-Video-Games-Claims-To-Be-Conclusive?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/cqRmf3t6GO8ZT_9ekusQNoZ4mEU/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/cqRmf3t6GO8ZT_9ekusQNoZ4mEU/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+&lt;a href="http://feedads.g.doubleclick.net/~at/cqRmf3t6GO8ZT_9ekusQNoZ4mEU/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/cqRmf3t6GO8ZT_9ekusQNoZ4mEU/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/_NmFRz9FSU4" height="1" width="1"/&gt;</description>
+<dc:creator>ScuttleMonkey</dc:creator>
+<dc:date>2010-03-01T21:12:00+00:00</dc:date>
+<dc:subject>games</dc:subject>
+<slash:department>subjective-research-is-now-conclusive</slash:department>
+<slash:section>games</slash:section>
+<slash:comments>466</slash:comments>
+<slash:hit_parade>466,465,366,294,74,51,31</slash:hit_parade>
+<feedburner:origLink>http://games.slashdot.org/story/10/03/01/1855252/Another-Study-Attacks-Violent-Video-Games-Claims-To-Be-Conclusive?from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://science.slashdot.org/story/10/03/01/1820201/New-Type-of-Dinosaur-Unearthed?from=rss">
+<title>New Type of Dinosaur Unearthed</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/nHiO3F_icCk/New-Type-of-Dinosaur-Unearthed</link>
+<description>MileHighScience writes to mention that a new type of sauropod has been discovered by scientists from Utah's Brigham Young University. Dubbed Abydosaurus mcintoshi, the new addition to the long necked dinosaur family was discovered at Dinosaur National Monument. "The circumstances of its discovery were both unusual and dramatic. The researchers stumbled on four skulls in a quarry at the preserve. Two were still intact. Sauropod skulls are rarely found in the fossil record because the soft tissue from which they are constructed is unlikely to be preserved after death. 'Their heads are built lighter than mammal skulls because they sit way out at the end of very long necks,' Brooks Britt, a BYU paleontologist said in a news release. 'Instead of thick bones fused together, sauropod skulls are made of thin bones bound together by soft tissue.' Of more than 120 known species of sauropods, there have been only eight instances in which scientists have been able to recover intact skulls."&lt;p&gt;&lt;a href="http://science.slashdot.org/story/10/03/01/1820201/New-Type-of-Dinosaur-Unearthed?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=10/03/01/1820201"&gt;&lt;/a&gt;&lt;a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F10%2F03%2F01%2F1820201%2FNew-Type-of-Dinosaur-Unearthed" target="_blank" title="Share on Facebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+   
+      &lt;a href="http://twitter.com/home?status=New+Type+of+Dinosaur+Unearthed%3A+http%3A%2F%2Fbit.ly%2F9EXanF" target="_blank" title="Share on Twitter"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/10/03/01/1820201/New-Type-of-Dinosaur-Unearthed?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/PERtwm1MmP1Wh5X4XBfn4v94BGI/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/PERtwm1MmP1Wh5X4XBfn4v94BGI/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+&lt;a href="http://feedads.g.doubleclick.net/~at/PERtwm1MmP1Wh5X4XBfn4v94BGI/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/PERtwm1MmP1Wh5X4XBfn4v94BGI/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/nHiO3F_icCk" height="1" width="1"/&gt;</description>
+<dc:creator>ScuttleMonkey</dc:creator>
+<dc:date>2010-03-01T20:30:00+00:00</dc:date>
+<dc:subject>science</dc:subject>
+<slash:department>everything-is-better-with-explosives</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>147</slash:comments>
+<slash:hit_parade>147,141,103,79,19,11,6</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/10/03/01/1820201/New-Type-of-Dinosaur-Unearthed?from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://tech.slashdot.org/story/10/03/01/180243/Microsoft-Behind-Google-Complaints-To-EC?from=rss">
+<title>Microsoft Behind Google Complaints To EC</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/NK3QDXy9IYk/Microsoft-Behind-Google-Complaints-To-EC</link>
+<description>justice4all writes to share that some of the recent complaints to the European Commission about Google have apparently been coming from Microsoft. "A lawyer for Microsoft confirmed that the software giant told the US Department of Justice and the European Commission how Google&amp;rsquo;s business practices may be harming publishers, advertisers and competition in search and online advertising. [...] 'Google&amp;rsquo;s algorithms learn less common search terms better than others because many more people are conducting searches on these terms on Google. These and other network effects make it hard for competing search engines to catch up. Microsoft&amp;rsquo;s well-received Bing search engine is addressing this challenge by offering innovations in areas that are less dependent on volume. But Bing needs to gain volume too, in order to increase the relevance of search results for less common search terms.'"&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/10/03/01/180243/Microsoft-Behind-Google-Complaints-To-EC?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=10/03/01/180243"&gt;&lt;/a&gt;&lt;a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F10%2F03%2F01%2F180243%2FMicrosoft-Behind-Google-Complaints-To-EC" target="_blank" title="Share on Facebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+   
+      &lt;a href="http://twitter.com/home?status=Microsoft+Behind+Google+Complaints+To+EC%3A+http%3A%2F%2Fbit.ly%2Fd1LVjr" target="_blank" title="Share on Twitter"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/10/03/01/180243/Microsoft-Behind-Google-Complaints-To-EC?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/qTpnHyy8zCtjC3fAQuF2sc_Rjnk/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/qTpnHyy8zCtjC3fAQuF2sc_Rjnk/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+&lt;a href="http://feedads.g.doubleclick.net/~at/qTpnHyy8zCtjC3fAQuF2sc_Rjnk/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/qTpnHyy8zCtjC3fAQuF2sc_Rjnk/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/NK3QDXy9IYk" height="1" width="1"/&gt;</description>
+<dc:creator>ScuttleMonkey</dc:creator>
+<dc:date>2010-03-01T19:48:00+00:00</dc:date>
+<dc:subject>google</dc:subject>
+<slash:department>calling-the-whambulance</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>305</slash:comments>
+<slash:hit_parade>305,303,244,206,46,37,25</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/10/03/01/180243/Microsoft-Behind-Google-Complaints-To-EC?from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://slashdot.org/story/10/03/01/1714255/AMD-Intel-and-NVIDIA-Over-the-Next-10-Years?from=rss">
+<title>AMD, Intel, and NVIDIA Over the Next 10 Years</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/qH5xQ-eWVrE/AMD-Intel-and-NVIDIA-Over-the-Next-10-Years</link>
+<description>GhostX9 writes "Alan Dang from Tom's Hardware has just written a speculative op-ed on the future of AMD, Intel, and NVIDIA in the next decade. They talk about the strengths of AMD's combined GPU and CPU teams, Intel's experience with VLIW architectures, and NVIDIA's software lead in the GPU computing world." What do you think it will take to stay on top over the next ten years? Or, will we have a newcomer that usurps the throne and puts everyone else out of business?&lt;p&gt;&lt;a href="http://slashdot.org/story/10/03/01/1714255/AMD-Intel-and-NVIDIA-Over-the-Next-10-Years?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=10/03/01/1714255"&gt;&lt;/a&gt;&lt;a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fslashdot.org%2Fstory%2F10%2F03%2F01%2F1714255%2FAMD-Intel-and-NVIDIA-Over-the-Next-10-Years" target="_blank" title="Share on Facebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+   
+      &lt;a href="http://twitter.com/home?status=AMD%2C+Intel%2C+and+NVIDIA+Over+the+Next+10+Years%3A+http%3A%2F%2Fbit.ly%2F9eIPiO" target="_blank" title="Share on Twitter"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://slashdot.org/story/10/03/01/1714255/AMD-Intel-and-NVIDIA-Over-the-Next-10-Years?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/NxBQFRZiYiVnR1QLhQrkfu6k4G4/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/NxBQFRZiYiVnR1QLhQrkfu6k4G4/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+&lt;a href="http://feedads.g.doubleclick.net/~at/NxBQFRZiYiVnR1QLhQrkfu6k4G4/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/NxBQFRZiYiVnR1QLhQrkfu6k4G4/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/qH5xQ-eWVrE" height="1" width="1"/&gt;</description>
+<dc:creator>ScuttleMonkey</dc:creator>
+<dc:date>2010-03-01T19:05:00+00:00</dc:date>
+<dc:subject>amd</dc:subject>
+<slash:department>what-next</slash:department>
+<slash:section>slashdot</slash:section>
+<slash:comments>158</slash:comments>
+<slash:hit_parade>158,155,130,100,27,14,9</slash:hit_parade>
+<feedburner:origLink>http://slashdot.org/story/10/03/01/1714255/AMD-Intel-and-NVIDIA-Over-the-Next-10-Years?from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://science.slashdot.org/story/10/03/01/172216/Tracking-Water-Molecules-Could-Unlock-Secrets?from=rss">
+<title>Tracking Water Molecules Could Unlock Secrets</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ziqY9L1uVJ0/Tracking-Water-Molecules-Could-Unlock-Secrets</link>
+<description>ScienceDaily is reporting that several new discoveries about the simple molecule of water have kicked off a surge in research that scientists believe could lead to solving some of the world's most tricky problems from agriculture to cancer. "Understanding how individual water molecules maneuver in a system to form fleeting tetrahedral structures and how changing physical conditions such as temperatures and pressures affect the amount of disorder each imparts on that system may help scientists understand why certain substances, like drugs used in chemotherapy, are soluble in water and why some are not. It could also help understand how this changing network of bonds and ordering of local tetrahedrality between water molecules changes the nature of protein folding and degradation. 'Understanding hydrophobicity, and how different conditions change it, is probably one of the most fundamental components in understanding how proteins fold in water and how different biomolecules remain stable in it,' says Kumar. 'And if we understand this, we will not only have a new way of thinking about physics and biology but also a new way to approach health and disease.'"&lt;p&gt;&lt;a href="http://science.slashdot.org/story/10/03/01/172216/Tracking-Water-Molecules-Could-Unlock-Secrets?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=10/03/01/172216"&gt;&lt;/a&gt;&lt;a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F10%2F03%2F01%2F172216%2FTracking-Water-Molecules-Could-Unlock-Secrets" target="_blank" title="Share on Facebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+   
+      &lt;a href="http://twitter.com/home?status=Tracking+Water+Molecules+Could+Unlock+Secrets%3A+http%3A%2F%2Fbit.ly%2FbWLP1V" target="_blank" title="Share on Twitter"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/10/03/01/172216/Tracking-Water-Molecules-Could-Unlock-Secrets?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/f1wVC7n5NpZtHLGGX_PLbWkTaJg/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/f1wVC7n5NpZtHLGGX_PLbWkTaJg/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+&lt;a href="http://feedads.g.doubleclick.net/~at/f1wVC7n5NpZtHLGGX_PLbWkTaJg/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/f1wVC7n5NpZtHLGGX_PLbWkTaJg/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ziqY9L1uVJ0" height="1" width="1"/&gt;</description>
+<dc:creator>ScuttleMonkey</dc:creator>
+<dc:date>2010-03-01T18:22:00+00:00</dc:date>
+<dc:subject>science</dc:subject>
+<slash:department>h-two-ohmygosh</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>94</slash:comments>
+<slash:hit_parade>94,91,74,54,21,13,8</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/10/03/01/172216/Tracking-Water-Molecules-Could-Unlock-Secrets?from=rss</feedburner:origLink></item>
+
+<item rdf:about="http://books.slashdot.org/story/10/03/01/1435219/Design-and-Evaluation-of-Central-Control-Room-Operations?from=rss">
+<title>Design and Evaluation of Central Control Room Operations</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/EWcPipeC8LY/Design-and-Evaluation-of-Central-Control-Room-Operations</link>
+<description>brothke writes "In aviation today, technically advanced airplanes present a unique paradox. Technically advanced airplanes, in theory, have more available safety, and the outcome should be that there are fewer accidents. But without proper training for their pilots, they could be less safe than airplanes with less available safety. The FAA found that without proper training for the pilots who fly them, technically advanced airplanes don't advance safety at all. The reason is that technically advanced airplanes present challenges that under-prepared pilots might not be equipped to handle." Read on for the rest of the review.&lt;p&gt;&lt;a href="http://books.slashdot.org/story/10/03/01/1435219/Design-and-Evaluation-of-Central-Control-Room-Operations?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=10/03/01/1435219"&gt;&lt;/a&gt;&lt;a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fbooks.slashdot.org%2Fstory%2F10%2F03%2F01%2F1435219%2FDesign-and-Evaluation-of-Central-Control-Room-Operations" target="_blank" title="Share on Facebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+   
+      &lt;a href="http://twitter.com/home?status=Design+and+Evaluation+of+Central+Control+Room+Operations%3A+http%3A%2F%2Fbit.ly%2FaHiQ6M" target="_blank" title="Share on Twitter"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://books.slashdot.org/story/10/03/01/1435219/Design-and-Evaluation-of-Central-Control-Room-Operations?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/S5Dtcpdhc7nXx7tLGfnj5PTJXTc/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/S5Dtcpdhc7nXx7tLGfnj5PTJXTc/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+&lt;a href="http://feedads.g.doubleclick.net/~at/S5Dtcpdhc7nXx7tLGfnj5PTJXTc/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/S5Dtcpdhc7nXx7tLGfnj5PTJXTc/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/EWcPipeC8LY" height="1" width="1"/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2010-03-01T17:38:00+00:00</dc:date>
+<dc:subject>bookreview</dc:subject>
+<slash:department>read-all-about-it</slash:department>
+<slash:section>bookreview</slash:section>
+<slash:comments>87</slash:comments>
+<slash:hit_parade>87,87,74,57,19,8,4</slash:hit_parade>
+<feedburner:origLink>http://books.slashdot.org/story/10/03/01/1435219/Design-and-Evaluation-of-Central-Control-Room-Operations?from=rss</feedburner:origLink></item>
+
+<textinput rdf:about="http://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>http://slashdot.org/search.pl</link>
+</textinput>
+
+</rdf:RDF>
