@@ -1,7 +1,7 @@
 ======
 FeedMe
 ======
-:Author: Miki Tebeka <miki@mikitebeka.com>
+Miki Tebeka <miki.tebeka@gmail.com>
 
 Description
 ===========
