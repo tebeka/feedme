@@ -1,3 +1,5 @@
 syntax: glob
 
 lib
+feedme.jar
+pom.xml
