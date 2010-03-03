@@ -7,7 +7,6 @@
   (let [testdir (.getParent (new File (.getAbsolutePath (new File *file*))))]
     (str "file://" testdir "/test/" name)))
 
-
 (deftest slashdot
   (let [uri (resource "slashdot.rss")
         feed (parse uri)]
