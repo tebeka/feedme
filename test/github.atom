@@ -1,0 +1,3574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:github.com,2008:/mikitebeka</id>
+  <link type="text/html" href="http://github.com" rel="alternate"/>
+  <link type="application/atom+xml" href="https://github.com/mikitebeka.private.atom?token=9c98934dcc9967b26aa6c52bfb49e8eb" rel="self"/>
+  <title>Private Feed for mikitebeka</title>
+  <updated>2010-03-02T21:07:39-08:00</updated>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/153032941</id>
+    <published>2010-03-02T21:07:39-08:00</published>
+    <updated>2010-03-02T21:07:39-08:00</updated>
+    <link type="text/html" href="https://github.com/saucelabs/sauce/compare/a36124a1b7...5c75a05721" rel="alternate"/>
+    <title>sah pushed to master at saucelabs/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/5c75a057219fc95be66b679447099c4f520bbed1&quot;&gt;5c75a05&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;fixed long-standing bug in expediter!Failing to remove chefs we're about to assign to jobs from the masterready_chefs list during dispatching would cause them to be chosen forassignment for jobs on other browsers they also support, which couldin turn cause jobs not to be assigned when:1) we're busy2) with jobs that can be serviced by more than one type of chef3) for long enough for sushiboat to give up&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/c6c538e8f41638bfc52f21bffd68c1860704d789&quot;&gt;c6c538e&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;text found innon-ready state&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/897a348ca53fd101bea56e7bd7917e0b2e2af138&quot;&gt;897a348&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:saucelabs/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/f6ed61695472a53fb2c0938e0d015bd76103e0ec&quot;&gt;f6ed616&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;an idea from brainsik -- this is more interesting anyway&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>sah</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/153032875</id>
+    <published>2010-03-02T21:07:10-08:00</published>
+    <updated>2010-03-02T21:07:10-08:00</updated>
+    <link type="text/html" href="https://github.com/sah/sauce/compare/c6c538e8f4...5c75a05721" rel="alternate"/>
+    <title>sah pushed to master at sah/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/5c75a057219fc95be66b679447099c4f520bbed1&quot;&gt;5c75a05&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;fixed long-standing bug in expediter!Failing to remove chefs we're about to assign to jobs from the masterready_chefs list during dispatching would cause them to be chosen forassignment for jobs on other browsers they also support, which couldin turn cause jobs not to be assigned when:1) we're busy2) with jobs that can be serviced by more than one type of chef3) for long enough for sushiboat to give up&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>sah</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/153024089</id>
+    <published>2010-03-02T20:51:39-08:00</published>
+    <updated>2010-03-02T20:51:39-08:00</updated>
+    <link type="text/html" href="https://github.com/sah/sauce/compare/f6ed616954...c6c538e8f4" rel="alternate"/>
+    <title>sah pushed to master at sah/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/c6c538e8f41638bfc52f21bffd68c1860704d789&quot;&gt;c6c538e&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;text found innon-ready state&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/897a348ca53fd101bea56e7bd7917e0b2e2af138&quot;&gt;897a348&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:saucelabs/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/a36124a1b7f13b00128d68178de3981bec78767b&quot;&gt;a36124a&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Better wording.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/d84aaa165710214ac7c59f2ad9695ecc5f6908b2&quot;&gt;d84aaa1&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:saucelabs/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/f65e846fbca0a2e29559bcd43e9faad57e3b520c&quot;&gt;f65e846&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Removed redundant try/except masking better error msg.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/36ea249222e794da836cc1a04c6801dce04dccdf&quot;&gt;36ea249&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;list(str) is not [str]&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/10fec9e76df389e0bbb4720b73b3236818fd7d87&quot;&gt;10fec9e&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:saucelabs/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/6b889cccbc1b9f445f889b68a587d8054b3d8abe&quot;&gt;6b889cc&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of git@github.com:saucelabs/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/c5378183508a206dcfcc26e51acc45b6ee4fc974&quot;&gt;c537818&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Fix bug preventing us from removing access to 0:65535&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/0056bedd923dd1ef84bf07b1df3f86a7826ac818&quot;&gt;0056bed&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Match external API better and move to True/False/Exception conventionfor {open,close}_port.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Jason Huggins&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/dedfb1aaf8c4e93a472b755416f5b6237c2426db&quot;&gt;dedfb1a&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:saucelabs/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Jason Huggins&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/3348e1fd1dbc0943fe454f6d802d9d5405f1b7c5&quot;&gt;3348e1f&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Renamed to a pithier url&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Malini Das&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/ed7bb4672fed63051b74cb323bba6c8072276d0d&quot;&gt;ed7bb46&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;less spammy&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/a483505631f5b39134bbd2314b4e9a4f650befdc&quot;&gt;a483505&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;It helps to import the module ..&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/c12b85bf3339a1c689f1eb4bb3cea0f04198d8eb&quot;&gt;c12b85b&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Cleanup tmp payload directory and removed create_local_payload section.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/c83c2fc556428112166604163e5ef58d1dca8cff&quot;&gt;c83c2fc&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Broke staging and deploying into separate scripts.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/3d1b4e143552892820a3a29a0935429afd36d9a9&quot;&gt;3d1b4e1&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;In order to rename files in git, you have to do multiple commits. Suck.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/50b95a2b39ce72e3c8f77d23f016155acdc58e52&quot;&gt;50b95a2&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;This code is dead. It lives in node.payload now.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/95fa9e4b6c319793b82b364bec284e884d112835&quot;&gt;95fa9e4&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Git's &amp;quot;rename&amp;quot; support is worse than non-existent.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Jason Huggins&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/8c470c5db1bc0c5bf39a9f3a81788c4b1426f623&quot;&gt;8c470c5&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'saucelabs/master'&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+      &lt;li class='more'&gt;
+      &lt;a href=&quot;/sah/sauce/compare/f6ed616954...c6c538e8f4&quot;&gt;22 more commits &amp;raquo;&lt;/a&gt;
+      &lt;/li&gt;
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>sah</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/152961114</id>
+    <published>2010-03-02T19:30:59-08:00</published>
+    <updated>2010-03-02T19:30:59-08:00</updated>
+    <link type="text/html" href="https://github.com/brainsik/sauce/compare/7a82f5a9fb...5b471fa695" rel="alternate"/>
+    <title>brainsik pushed to master at brainsik/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/5b471fa695c5abda0813365f4a1b48b33ee1fa3e&quot;&gt;5b471fa&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Write two logfiles: regular and debug.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>brainsik</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/152950526</id>
+    <published>2010-03-02T19:03:11-08:00</published>
+    <updated>2010-03-02T19:03:11-08:00</updated>
+    <link type="text/html" href="https://github.com/brainsik/sauce/compare/a36124a1b7...7a82f5a9fb" rel="alternate"/>
+    <title>brainsik pushed to master at brainsik/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/7a82f5a9fb73e763cddaac6ea027676bf20c5f44&quot;&gt;7a82f5a&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Refactored with extreme prejudice&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>brainsik</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/152938429</id>
+    <published>2010-03-02T18:41:54-08:00</published>
+    <updated>2010-03-02T18:41:54-08:00</updated>
+    <link type="text/html" href="https://github.com/sah/sauce/compare/4cb361d19c...f6ed616954" rel="alternate"/>
+    <title>sah pushed to master at sah/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/f6ed61695472a53fb2c0938e0d015bd76103e0ec&quot;&gt;f6ed616&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;an idea from brainsik -- this is more interesting anyway&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>sah</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/152906877</id>
+    <published>2010-03-02T17:24:49-08:00</published>
+    <updated>2010-03-02T17:24:49-08:00</updated>
+    <link type="text/html" href="https://github.com/brainsik/sauce/compare/2d4b82fdcd...a36124a1b7" rel="alternate"/>
+    <title>brainsik pushed to master at brainsik/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/a36124a1b7f13b00128d68178de3981bec78767b&quot;&gt;a36124a&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Better wording.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/d84aaa165710214ac7c59f2ad9695ecc5f6908b2&quot;&gt;d84aaa1&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:saucelabs/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/f65e846fbca0a2e29559bcd43e9faad57e3b520c&quot;&gt;f65e846&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Removed redundant try/except masking better error msg.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/36ea249222e794da836cc1a04c6801dce04dccdf&quot;&gt;36ea249&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;list(str) is not [str]&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/10fec9e76df389e0bbb4720b73b3236818fd7d87&quot;&gt;10fec9e&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:saucelabs/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/6b889cccbc1b9f445f889b68a587d8054b3d8abe&quot;&gt;6b889cc&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of git@github.com:saucelabs/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/c5378183508a206dcfcc26e51acc45b6ee4fc974&quot;&gt;c537818&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Fix bug preventing us from removing access to 0:65535&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/0056bedd923dd1ef84bf07b1df3f86a7826ac818&quot;&gt;0056bed&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Match external API better and move to True/False/Exception conventionfor {open,close}_port.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Jason Huggins&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/dedfb1aaf8c4e93a472b755416f5b6237c2426db&quot;&gt;dedfb1a&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:saucelabs/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Jason Huggins&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/3348e1fd1dbc0943fe454f6d802d9d5405f1b7c5&quot;&gt;3348e1f&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Renamed to a pithier url&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Malini Das&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/ed7bb4672fed63051b74cb323bba6c8072276d0d&quot;&gt;ed7bb46&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;less spammy&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/a483505631f5b39134bbd2314b4e9a4f650befdc&quot;&gt;a483505&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;It helps to import the module ..&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/c12b85bf3339a1c689f1eb4bb3cea0f04198d8eb&quot;&gt;c12b85b&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Cleanup tmp payload directory and removed create_local_payload section.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/c83c2fc556428112166604163e5ef58d1dca8cff&quot;&gt;c83c2fc&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Broke staging and deploying into separate scripts.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/3d1b4e143552892820a3a29a0935429afd36d9a9&quot;&gt;3d1b4e1&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;In order to rename files in git, you have to do multiple commits. Suck.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/50b95a2b39ce72e3c8f77d23f016155acdc58e52&quot;&gt;50b95a2&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;This code is dead. It lives in node.payload now.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/95fa9e4b6c319793b82b364bec284e884d112835&quot;&gt;95fa9e4&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Git's &amp;quot;rename&amp;quot; support is worse than non-existent.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Jason Huggins&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/8c470c5db1bc0c5bf39a9f3a81788c4b1426f623&quot;&gt;8c470c5&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'saucelabs/master'&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/4cb361d19c0665bfb76befa7474876259fcb9c81&quot;&gt;4cb361d&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;setting the global default socket timeout is not a great idea&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Jason Huggins&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/c10c25175b348eb2e996288d2dae1443505a682e&quot;&gt;c10c251&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Last wording tweak?&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+      &lt;li class='more'&gt;
+      &lt;a href=&quot;/brainsik/sauce/compare/2d4b82fdcd...a36124a1b7&quot;&gt;21 more commits &amp;raquo;&lt;/a&gt;
+      &lt;/li&gt;
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>brainsik</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/152905048</id>
+    <published>2010-03-02T17:23:20-08:00</published>
+    <updated>2010-03-02T17:23:20-08:00</updated>
+    <link type="text/html" href="https://github.com/saucelabs/sauce/compare/f65e846fbc...a36124a1b7" rel="alternate"/>
+    <title>brainsik pushed to master at saucelabs/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/a36124a1b7f13b00128d68178de3981bec78767b&quot;&gt;a36124a&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Better wording.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/d84aaa165710214ac7c59f2ad9695ecc5f6908b2&quot;&gt;d84aaa1&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:saucelabs/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/10fec9e76df389e0bbb4720b73b3236818fd7d87&quot;&gt;10fec9e&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:saucelabs/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/4cb361d19c0665bfb76befa7474876259fcb9c81&quot;&gt;4cb361d&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;setting the global default socket timeout is not a great idea&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>brainsik</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/152850237</id>
+    <published>2010-03-02T15:38:35-08:00</published>
+    <updated>2010-03-02T15:38:35-08:00</updated>
+    <link type="text/html" href="https://github.com/saucelabs/sauce/compare/36ea249222...f65e846fbc" rel="alternate"/>
+    <title>brainsik pushed to master at saucelabs/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/f65e846fbca0a2e29559bcd43e9faad57e3b520c&quot;&gt;f65e846&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Removed redundant try/except masking better error msg.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>brainsik</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WikiEvent/152814576</id>
+    <published>2010-03-02T14:46:04-08:00</published>
+    <updated>2010-03-02T14:46:04-08:00</updated>
+    <link type="text/html" href="https://github.com/saucelabs/sauce/wikis/rest-api" rel="alternate"/>
+    <title>smcq edited a page in the saucelabs/sauce wiki</title>
+    <content type="html">
+&lt;div class=&quot;details&quot;&gt;
+  
+  &lt;div class=&quot;message&quot;&gt;
+    &amp;quot;ReST API&amp;quot; is at
+    &lt;a href=&quot;https://github.com/saucelabs/sauce/wikis/rest-api&quot;&gt;saucelabs/sauce/wikis/rest-api&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+    <author>
+      <name>smcq</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WikiEvent/152806583</id>
+    <published>2010-03-02T14:37:00-08:00</published>
+    <updated>2010-03-02T14:37:00-08:00</updated>
+    <link type="text/html" href="https://github.com/saucelabs/sauce/wikis/rest-api" rel="alternate"/>
+    <title>smcq edited a page in the saucelabs/sauce wiki</title>
+    <content type="html">
+&lt;div class=&quot;details&quot;&gt;
+  
+  &lt;div class=&quot;message&quot;&gt;
+    &amp;quot;ReST API&amp;quot; is at
+    &lt;a href=&quot;https://github.com/saucelabs/sauce/wikis/rest-api&quot;&gt;saucelabs/sauce/wikis/rest-api&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+    <author>
+      <name>smcq</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/152693849</id>
+    <published>2010-03-02T12:56:32-08:00</published>
+    <updated>2010-03-02T12:56:32-08:00</updated>
+    <link type="text/html" href="https://github.com/sgrove/sauce/compare/6b889cccbc...5fbec1f312" rel="alternate"/>
+    <title>sgrove pushed to master at sgrove/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Sean Grove&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sgrove/sauce/commit/5fbec1f3127487b6a36e5364a6644c4af9cb92bf&quot;&gt;5fbec1f&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of git@github.com:sgrove/sauce into experimental&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Sean Grove&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sgrove/sauce/commit/a969e1cf06780d2dfabf7617b2c8d3a04b888d2e&quot;&gt;a969e1c&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Skeleton for the static info REST controller.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Sean Grove&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sgrove/sauce/commit/e076fc47efea7f33c8a63bd65171cd1ee68a0002&quot;&gt;e076fc4&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Touchups on tunnels rest controller&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Sean Grove&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sgrove/sauce/commit/9f010f86090b27595f135b1ea877ec4ee7b84f56&quot;&gt;9f010f8&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Touchups on jobs rest controller thanks to Sean M.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Sean Grove&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sgrove/sauce/commit/7ebbc20a22f0282e04520ac03ca03d6197045f46&quot;&gt;7ebbc20&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;New routing in place for static REST information&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Sean Grove&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sgrove/sauce/commit/41a23c82c912316c180743205471602a4f2ebad9&quot;&gt;41a23c8&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Initial layout of new rest controller and routing for jobs.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Sean Grove&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sgrove/sauce/commit/bbca42684d49d7188eafc9ac4bf122986590cd71&quot;&gt;bbca426&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Beginning of new ReST API implemented&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>sgrove</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/152689808</id>
+    <published>2010-03-02T12:51:52-08:00</published>
+    <updated>2010-03-02T12:51:52-08:00</updated>
+    <link type="text/html" href="https://github.com/saucelabs/sauce/compare/6b889cccbc...36ea249222" rel="alternate"/>
+    <title>brainsik pushed to master at saucelabs/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/36ea249222e794da836cc1a04c6801dce04dccdf&quot;&gt;36ea249&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;list(str) is not [str]&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>brainsik</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/152652020</id>
+    <published>2010-03-02T12:13:39-08:00</published>
+    <updated>2010-03-02T12:13:39-08:00</updated>
+    <link type="text/html" href="https://github.com/malinidas/sauce/compare/ed7bb4672f...6b889cccbc" rel="alternate"/>
+    <title>malinidas pushed to master at malinidas/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/malinidas/sauce/commit/6b889cccbc1b9f445f889b68a587d8054b3d8abe&quot;&gt;6b889cc&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of git@github.com:saucelabs/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/malinidas/sauce/commit/c5378183508a206dcfcc26e51acc45b6ee4fc974&quot;&gt;c537818&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Fix bug preventing us from removing access to 0:65535&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/malinidas/sauce/commit/0056bedd923dd1ef84bf07b1df3f86a7826ac818&quot;&gt;0056bed&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Match external API better and move to True/False/Exception conventionfor {open,close}_port.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Jason Huggins&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/malinidas/sauce/commit/dedfb1aaf8c4e93a472b755416f5b6237c2426db&quot;&gt;dedfb1a&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:saucelabs/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Jason Huggins&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/malinidas/sauce/commit/3348e1fd1dbc0943fe454f6d802d9d5405f1b7c5&quot;&gt;3348e1f&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Renamed to a pithier url&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>malinidas</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WikiEvent/152650049</id>
+    <published>2010-03-02T12:03:42-08:00</published>
+    <updated>2010-03-02T12:03:42-08:00</updated>
+    <link type="text/html" href="https://github.com/saucelabs/sauce/wikis/rest-api" rel="alternate"/>
+    <title>smcq edited a page in the saucelabs/sauce wiki</title>
+    <content type="html">
+&lt;div class=&quot;details&quot;&gt;
+  
+  &lt;div class=&quot;message&quot;&gt;
+    &amp;quot;ReST API&amp;quot; is at
+    &lt;a href=&quot;https://github.com/saucelabs/sauce/wikis/rest-api&quot;&gt;saucelabs/sauce/wikis/rest-api&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+    <author>
+      <name>smcq</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/152623793</id>
+    <published>2010-03-02T11:25:41-08:00</published>
+    <updated>2010-03-02T11:25:41-08:00</updated>
+    <link type="text/html" href="https://github.com/saucelabs/selenium-ide/compare/8603a1e643...5435446c11" rel="alternate"/>
+    <title>fwierzbicki pushed to master at saucelabs/selenium-ide</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Frank Wierzbicki&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/selenium-ide/commit/5435446c111a941f76bf7fdd8bb013191f54595f&quot;&gt;5435446&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Better descriptive text for OnDemand settings.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>fwierzbicki</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/152623733</id>
+    <published>2010-03-02T11:25:32-08:00</published>
+    <updated>2010-03-02T11:25:32-08:00</updated>
+    <link type="text/html" href="https://github.com/saucelabs/sauce/compare/dedfb1aaf8...6b889cccbc" rel="alternate"/>
+    <title>brainsik pushed to master at saucelabs/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/6b889cccbc1b9f445f889b68a587d8054b3d8abe&quot;&gt;6b889cc&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of git@github.com:saucelabs/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/c5378183508a206dcfcc26e51acc45b6ee4fc974&quot;&gt;c537818&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Fix bug preventing us from removing access to 0:65535&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/0056bedd923dd1ef84bf07b1df3f86a7826ac818&quot;&gt;0056bed&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Match external API better and move to True/False/Exception conventionfor {open,close}_port.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>brainsik</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/152601181</id>
+    <published>2010-03-02T10:59:03-08:00</published>
+    <updated>2010-03-02T10:59:03-08:00</updated>
+    <link type="text/html" href="https://github.com/saucelabs/sauce/compare/ed7bb4672f...dedfb1aaf8" rel="alternate"/>
+    <title>hugs pushed to master at saucelabs/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Jason Huggins&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/dedfb1aaf8c4e93a472b755416f5b6237c2426db&quot;&gt;dedfb1a&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:saucelabs/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Jason Huggins&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/3348e1fd1dbc0943fe454f6d802d9d5405f1b7c5&quot;&gt;3348e1f&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Renamed to a pithier url&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>hugs</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/152601125</id>
+    <published>2010-03-02T10:58:51-08:00</published>
+    <updated>2010-03-02T10:58:51-08:00</updated>
+    <link type="text/html" href="https://github.com/hugs/sauce/compare/3348e1fd1d...dedfb1aaf8" rel="alternate"/>
+    <title>hugs pushed to master at hugs/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Jason Huggins&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/dedfb1aaf8c4e93a472b755416f5b6237c2426db&quot;&gt;dedfb1a&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:saucelabs/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Malini Das&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/ed7bb4672fed63051b74cb323bba6c8072276d0d&quot;&gt;ed7bb46&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;less spammy&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/a483505631f5b39134bbd2314b4e9a4f650befdc&quot;&gt;a483505&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;It helps to import the module ..&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/c12b85bf3339a1c689f1eb4bb3cea0f04198d8eb&quot;&gt;c12b85b&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Cleanup tmp payload directory and removed create_local_payload section.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/c83c2fc556428112166604163e5ef58d1dca8cff&quot;&gt;c83c2fc&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Broke staging and deploying into separate scripts.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/3d1b4e143552892820a3a29a0935429afd36d9a9&quot;&gt;3d1b4e1&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;In order to rename files in git, you have to do multiple commits. Suck.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/50b95a2b39ce72e3c8f77d23f016155acdc58e52&quot;&gt;50b95a2&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;This code is dead. It lives in node.payload now.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/95fa9e4b6c319793b82b364bec284e884d112835&quot;&gt;95fa9e4&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Git's &amp;quot;rename&amp;quot; support is worse than non-existent.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>hugs</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/152600895</id>
+    <published>2010-03-02T10:57:58-08:00</published>
+    <updated>2010-03-02T10:57:58-08:00</updated>
+    <link type="text/html" href="https://github.com/hugs/sauce/compare/8c470c5db1...3348e1fd1d" rel="alternate"/>
+    <title>hugs pushed to master at hugs/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Jason Huggins&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/3348e1fd1dbc0943fe454f6d802d9d5405f1b7c5&quot;&gt;3348e1f&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Renamed to a pithier url&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>hugs</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/152588031</id>
+    <published>2010-03-02T10:49:39-08:00</published>
+    <updated>2010-03-02T10:49:39-08:00</updated>
+    <link type="text/html" href="https://github.com/saucelabs/sauce/compare/a483505631...ed7bb4672f" rel="alternate"/>
+    <title>malinidas pushed to master at saucelabs/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Malini Das&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/ed7bb4672fed63051b74cb323bba6c8072276d0d&quot;&gt;ed7bb46&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;less spammy&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>malinidas</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/152587816</id>
+    <published>2010-03-02T10:49:24-08:00</published>
+    <updated>2010-03-02T10:49:24-08:00</updated>
+    <link type="text/html" href="https://github.com/malinidas/sauce/compare/a483505631...ed7bb4672f" rel="alternate"/>
+    <title>malinidas pushed to master at malinidas/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Malini Das&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/malinidas/sauce/commit/ed7bb4672fed63051b74cb323bba6c8072276d0d&quot;&gt;ed7bb46&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;less spammy&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>malinidas</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/152574884</id>
+    <published>2010-03-02T10:43:33-08:00</published>
+    <updated>2010-03-02T10:43:33-08:00</updated>
+    <link type="text/html" href="https://github.com/malinidas/sauce/compare/6900fb74e8...a483505631" rel="alternate"/>
+    <title>malinidas pushed to master at malinidas/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/malinidas/sauce/commit/a483505631f5b39134bbd2314b4e9a4f650befdc&quot;&gt;a483505&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;It helps to import the module ..&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/malinidas/sauce/commit/c12b85bf3339a1c689f1eb4bb3cea0f04198d8eb&quot;&gt;c12b85b&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Cleanup tmp payload directory and removed create_local_payload section.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/malinidas/sauce/commit/c83c2fc556428112166604163e5ef58d1dca8cff&quot;&gt;c83c2fc&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Broke staging and deploying into separate scripts.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/malinidas/sauce/commit/3d1b4e143552892820a3a29a0935429afd36d9a9&quot;&gt;3d1b4e1&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;In order to rename files in git, you have to do multiple commits. Suck.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/malinidas/sauce/commit/50b95a2b39ce72e3c8f77d23f016155acdc58e52&quot;&gt;50b95a2&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;This code is dead. It lives in node.payload now.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/malinidas/sauce/commit/95fa9e4b6c319793b82b364bec284e884d112835&quot;&gt;95fa9e4&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Git's &amp;quot;rename&amp;quot; support is worse than non-existent.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Jason Huggins&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/malinidas/sauce/commit/8c470c5db1bc0c5bf39a9f3a81788c4b1426f623&quot;&gt;8c470c5&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'saucelabs/master'&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/malinidas/sauce/commit/2d4b82fdcd3752f7f3018c3ad682aed3527f4dbe&quot;&gt;2d4b82f&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;how did this pass tests?&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/malinidas/sauce/commit/ba926b48dd5e41145807da367b5137ad04408eb0&quot;&gt;ba926b4&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;bugfix, use new api&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/malinidas/sauce/commit/6e552592ed8ca9718af21c56596b974296e30dff&quot;&gt;6e55259&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:saucelabs/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/malinidas/sauce/commit/139ccdea9ab724c306c5f460ba34f08f02d2d64c&quot;&gt;139ccde&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:sah/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/malinidas/sauce/commit/ea137d2bbfdede72ea3d36fe3d80a9f88755203e&quot;&gt;ea137d2&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;attempt graceful recovery from failed firewall ops&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/malinidas/sauce/commit/8243bff9fc46a6fe2ba0678d63c71405cab7958b&quot;&gt;8243bff&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Scripts I use to deploy new node code.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/malinidas/sauce/commit/c73248eb67e4101d08e187a4933680bf796e3719&quot;&gt;c73248e&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Remnants be gone&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/malinidas/sauce/commit/df47c87f8a5a9218826135d2248e9ce246b03c84&quot;&gt;df47c87&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Run as the sauce user.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/malinidas/sauce/commit/fff1cd3787f9f86c10d03183198ff1be3435cafe&quot;&gt;fff1cd3&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;cloud side: minor pre-release API refactor, to prevent regrets&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/malinidas/sauce/commit/6920cada8e98eb4f95af77ae22602e2d055a9896&quot;&gt;6920cad&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;no-private-cloud config flag, so we can go back easily&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/malinidas/sauce/commit/893e7fd4dbb02fc33b3e3b52afa443d8e6b260db&quot;&gt;893e7fd&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:sah/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/malinidas/sauce/commit/8bbe8faeaaa9fcb53b0097515385654ed7fd5386&quot;&gt;8bbe8fa&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;minor pre-release API refactor, to prevent regrets&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/malinidas/sauce/commit/df303f33c23d19082797e75e1f0502997beec287&quot;&gt;df303f3&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Support 9 tunnel machines.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+      &lt;li class='more'&gt;
+      &lt;a href=&quot;/malinidas/sauce/compare/6900fb74e8...a483505631&quot;&gt;31 more commits &amp;raquo;&lt;/a&gt;
+      &lt;/li&gt;
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>malinidas</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/152557747</id>
+    <published>2010-03-02T10:25:54-08:00</published>
+    <updated>2010-03-02T10:25:54-08:00</updated>
+    <link type="text/html" href="https://github.com/saucelabs/sauce/compare/c12b85bf33...a483505631" rel="alternate"/>
+    <title>brainsik pushed to master at saucelabs/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/a483505631f5b39134bbd2314b4e9a4f650befdc&quot;&gt;a483505&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;It helps to import the module ..&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>brainsik</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/152555717</id>
+    <published>2010-03-02T10:21:19-08:00</published>
+    <updated>2010-03-02T10:21:19-08:00</updated>
+    <link type="text/html" href="https://github.com/saucelabs/sauce/compare/8c470c5db1...c12b85bf33" rel="alternate"/>
+    <title>brainsik pushed to master at saucelabs/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/c12b85bf3339a1c689f1eb4bb3cea0f04198d8eb&quot;&gt;c12b85b&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Cleanup tmp payload directory and removed create_local_payload section.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/c83c2fc556428112166604163e5ef58d1dca8cff&quot;&gt;c83c2fc&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Broke staging and deploying into separate scripts.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/3d1b4e143552892820a3a29a0935429afd36d9a9&quot;&gt;3d1b4e1&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;In order to rename files in git, you have to do multiple commits. Suck.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/50b95a2b39ce72e3c8f77d23f016155acdc58e52&quot;&gt;50b95a2&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;This code is dead. It lives in node.payload now.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/95fa9e4b6c319793b82b364bec284e884d112835&quot;&gt;95fa9e4&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Git's &amp;quot;rename&amp;quot; support is worse than non-existent.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>brainsik</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/152527494</id>
+    <published>2010-03-02T09:51:47-08:00</published>
+    <updated>2010-03-02T09:51:47-08:00</updated>
+    <link type="text/html" href="https://github.com/saucelabs/sauce/compare/2d4b82fdcd...8c470c5db1" rel="alternate"/>
+    <title>hugs pushed to master at saucelabs/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Jason Huggins&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/8c470c5db1bc0c5bf39a9f3a81788c4b1426f623&quot;&gt;8c470c5&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'saucelabs/master'&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Jason Huggins&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/c10c25175b348eb2e996288d2dae1443505a682e&quot;&gt;c10c251&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Last wording tweak?&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Jason Huggins&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/9ea2a9ae0d53ed1876dcd90670eba49b8b0831bb&quot;&gt;9ea2a9a&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;One more small wording tweak...&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Jason Huggins&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/ba5404d6677a72e3baf7308f5c4be6935383f8ef&quot;&gt;ba5404d&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Changed wording.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Jason Huggins&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/63bde724a85a2b7aa48232790ddfeee2a741d2de&quot;&gt;63bde72&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Checked in wrong file...&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Jason Huggins&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/dd2667c8b8abc54cc7a2719e8b30588d4ce1ba86&quot;&gt;dd2667c&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Working cleanup&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>hugs</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/152527327</id>
+    <published>2010-03-02T09:51:21-08:00</published>
+    <updated>2010-03-02T09:51:21-08:00</updated>
+    <link type="text/html" href="https://github.com/hugs/sauce/compare/c10c25175b...8c470c5db1" rel="alternate"/>
+    <title>hugs pushed to master at hugs/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Jason Huggins&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/8c470c5db1bc0c5bf39a9f3a81788c4b1426f623&quot;&gt;8c470c5&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'saucelabs/master'&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/2d4b82fdcd3752f7f3018c3ad682aed3527f4dbe&quot;&gt;2d4b82f&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;how did this pass tests?&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/ba926b48dd5e41145807da367b5137ad04408eb0&quot;&gt;ba926b4&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;bugfix, use new api&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/6e552592ed8ca9718af21c56596b974296e30dff&quot;&gt;6e55259&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:saucelabs/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/139ccdea9ab724c306c5f460ba34f08f02d2d64c&quot;&gt;139ccde&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:sah/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/ea137d2bbfdede72ea3d36fe3d80a9f88755203e&quot;&gt;ea137d2&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;attempt graceful recovery from failed firewall ops&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/8243bff9fc46a6fe2ba0678d63c71405cab7958b&quot;&gt;8243bff&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Scripts I use to deploy new node code.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/c73248eb67e4101d08e187a4933680bf796e3719&quot;&gt;c73248e&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Remnants be gone&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/df47c87f8a5a9218826135d2248e9ce246b03c84&quot;&gt;df47c87&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Run as the sauce user.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/fff1cd3787f9f86c10d03183198ff1be3435cafe&quot;&gt;fff1cd3&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;cloud side: minor pre-release API refactor, to prevent regrets&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/6920cada8e98eb4f95af77ae22602e2d055a9896&quot;&gt;6920cad&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;no-private-cloud config flag, so we can go back easily&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/893e7fd4dbb02fc33b3e3b52afa443d8e6b260db&quot;&gt;893e7fd&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:sah/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/8bbe8faeaaa9fcb53b0097515385654ed7fd5386&quot;&gt;8bbe8fa&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;minor pre-release API refactor, to prevent regrets&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/df303f33c23d19082797e75e1f0502997beec287&quot;&gt;df303f3&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Support 9 tunnel machines.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/ec2ae5e1ae56a5392a524a04a2cacd0bf33a1d60&quot;&gt;ec2ae5e&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Fixed payload error and added a debug command.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/malinidas&quot; class=&quot;committer&quot;&gt;malinidas&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/6900fb74e81a35bac09bb3b585718e3ffda6c3ef&quot;&gt;6900fb7&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of git@github.com:sah/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/malinidas&quot; class=&quot;committer&quot;&gt;malinidas&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/cc26af058b7b2b1c720ecb0816de21ed46df3ebe&quot;&gt;cc26af0&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;fixing reconnection issue when noded goes down&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/ab06c74aab243000601ecbe9f45f13424041d9bc&quot;&gt;ab06c74&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:sah/sauceConflicts:	test/lib/test_lwjp.py&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/d9c6d55c80cd52969f02ad2a132ac53874664591&quot;&gt;d9c6d55&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;fixed lwjp binary&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/smcq&quot; class=&quot;committer&quot;&gt;smcq&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/hugs/sauce/commit/c8aafeadc15476e6a5c307d93ccc0d9fd688c5ac&quot;&gt;c8aafea&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:sah/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+      &lt;li class='more'&gt;
+      &lt;a href=&quot;/hugs/sauce/compare/c10c25175b...8c470c5db1&quot;&gt;206 more commits &amp;raquo;&lt;/a&gt;
+      &lt;/li&gt;
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>hugs</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/152525666</id>
+    <published>2010-03-02T09:46:18-08:00</published>
+    <updated>2010-03-02T09:46:18-08:00</updated>
+    <link type="text/html" href="https://github.com/brainsik/sauce/compare/c9d91d66d9...2d4b82fdcd" rel="alternate"/>
+    <title>brainsik pushed to master at brainsik/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/2d4b82fdcd3752f7f3018c3ad682aed3527f4dbe&quot;&gt;2d4b82f&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;how did this pass tests?&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/ba926b48dd5e41145807da367b5137ad04408eb0&quot;&gt;ba926b4&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;bugfix, use new api&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/6e552592ed8ca9718af21c56596b974296e30dff&quot;&gt;6e55259&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:saucelabs/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/139ccdea9ab724c306c5f460ba34f08f02d2d64c&quot;&gt;139ccde&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:sah/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/ea137d2bbfdede72ea3d36fe3d80a9f88755203e&quot;&gt;ea137d2&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;attempt graceful recovery from failed firewall ops&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/8243bff9fc46a6fe2ba0678d63c71405cab7958b&quot;&gt;8243bff&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Scripts I use to deploy new node code.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/c73248eb67e4101d08e187a4933680bf796e3719&quot;&gt;c73248e&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Remnants be gone&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/df47c87f8a5a9218826135d2248e9ce246b03c84&quot;&gt;df47c87&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Run as the sauce user.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/fff1cd3787f9f86c10d03183198ff1be3435cafe&quot;&gt;fff1cd3&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;cloud side: minor pre-release API refactor, to prevent regrets&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/6920cada8e98eb4f95af77ae22602e2d055a9896&quot;&gt;6920cad&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;no-private-cloud config flag, so we can go back easily&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/893e7fd4dbb02fc33b3e3b52afa443d8e6b260db&quot;&gt;893e7fd&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:sah/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/8bbe8faeaaa9fcb53b0097515385654ed7fd5386&quot;&gt;8bbe8fa&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;minor pre-release API refactor, to prevent regrets&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/df303f33c23d19082797e75e1f0502997beec287&quot;&gt;df303f3&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Support 9 tunnel machines.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/ec2ae5e1ae56a5392a524a04a2cacd0bf33a1d60&quot;&gt;ec2ae5e&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Fixed payload error and added a debug command.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/malinidas&quot; class=&quot;committer&quot;&gt;malinidas&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/6900fb74e81a35bac09bb3b585718e3ffda6c3ef&quot;&gt;6900fb7&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of git@github.com:sah/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/malinidas&quot; class=&quot;committer&quot;&gt;malinidas&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/cc26af058b7b2b1c720ecb0816de21ed46df3ebe&quot;&gt;cc26af0&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;fixing reconnection issue when noded goes down&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/ab06c74aab243000601ecbe9f45f13424041d9bc&quot;&gt;ab06c74&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:sah/sauceConflicts:	test/lib/test_lwjp.py&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/d9c6d55c80cd52969f02ad2a132ac53874664591&quot;&gt;d9c6d55&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;fixed lwjp binary&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/smcq&quot; class=&quot;committer&quot;&gt;smcq&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/c8aafeadc15476e6a5c307d93ccc0d9fd688c5ac&quot;&gt;c8aafea&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:sah/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/smcq&quot; class=&quot;committer&quot;&gt;smcq&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/brainsik/sauce/commit/d91f74fef75310a6a7cba5123c08d9ea104627ca&quot;&gt;d91f74f&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;lwjp tests for the WIN&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+      &lt;li class='more'&gt;
+      &lt;a href=&quot;/brainsik/sauce/compare/c9d91d66d9...2d4b82fdcd&quot;&gt;247 more commits &amp;raquo;&lt;/a&gt;
+      &lt;/li&gt;
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>brainsik</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WikiEvent/151820594</id>
+    <published>2010-03-01T23:20:59-08:00</published>
+    <updated>2010-03-01T23:20:59-08:00</updated>
+    <link type="text/html" href="https://github.com/saucelabs/sauce/wikis/downtime-todo-list" rel="alternate"/>
+    <title>sgrove created a page in the saucelabs/sauce wiki</title>
+    <content type="html">
+&lt;div class=&quot;details&quot;&gt;
+  
+  &lt;div class=&quot;message&quot;&gt;
+    &amp;quot;Downtime TODO list&amp;quot; is at
+    &lt;a href=&quot;https://github.com/saucelabs/sauce/wikis/downtime-todo-list&quot;&gt;saucelabs/sauce/wikis/downtime-todo-list&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+    <author>
+      <name>sgrove</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/151814485</id>
+    <published>2010-03-01T23:06:02-08:00</published>
+    <updated>2010-03-01T23:06:02-08:00</updated>
+    <link type="text/html" href="https://github.com/sah/sauce/compare/ba926b48dd...4cb361d19c" rel="alternate"/>
+    <title>sah pushed to master at sah/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/4cb361d19c0665bfb76befa7474876259fcb9c81&quot;&gt;4cb361d&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;setting the global default socket timeout is not a great idea&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/2d4b82fdcd3752f7f3018c3ad682aed3527f4dbe&quot;&gt;2d4b82f&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;how did this pass tests?&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>sah</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WikiEvent/151813567</id>
+    <published>2010-03-01T23:00:36-08:00</published>
+    <updated>2010-03-01T23:00:36-08:00</updated>
+    <link type="text/html" href="https://github.com/saucelabs/sauce/wikis/rest-api" rel="alternate"/>
+    <title>smcq edited a page in the saucelabs/sauce wiki</title>
+    <content type="html">
+&lt;div class=&quot;details&quot;&gt;
+  
+  &lt;div class=&quot;message&quot;&gt;
+    &amp;quot;ReST API&amp;quot; is at
+    &lt;a href=&quot;https://github.com/saucelabs/sauce/wikis/rest-api&quot;&gt;saucelabs/sauce/wikis/rest-api&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+    <author>
+      <name>smcq</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/151807341</id>
+    <published>2010-03-01T22:31:47-08:00</published>
+    <updated>2010-03-01T22:31:47-08:00</updated>
+    <link type="text/html" href="https://github.com/saucelabs/sauce/compare/ba926b48dd...2d4b82fdcd" rel="alternate"/>
+    <title>sah pushed to master at saucelabs/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/2d4b82fdcd3752f7f3018c3ad682aed3527f4dbe&quot;&gt;2d4b82f&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;how did this pass tests?&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>sah</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/151806644</id>
+    <published>2010-03-01T22:28:49-08:00</published>
+    <updated>2010-03-01T22:28:49-08:00</updated>
+    <link type="text/html" href="https://github.com/saucelabs/sauce/compare/6e552592ed...ba926b48dd" rel="alternate"/>
+    <title>sah pushed to master at saucelabs/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/ba926b48dd5e41145807da367b5137ad04408eb0&quot;&gt;ba926b4&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;bugfix, use new api&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>sah</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/151806632</id>
+    <published>2010-03-01T22:28:45-08:00</published>
+    <updated>2010-03-01T22:28:45-08:00</updated>
+    <link type="text/html" href="https://github.com/sah/sauce/compare/139ccdea9a...ba926b48dd" rel="alternate"/>
+    <title>sah pushed to master at sah/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/ba926b48dd5e41145807da367b5137ad04408eb0&quot;&gt;ba926b4&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;bugfix, use new api&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/6e552592ed8ca9718af21c56596b974296e30dff&quot;&gt;6e55259&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:saucelabs/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;santi&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/1f68a7f1cd67d3c9c8eb21c221ea37a1e76870aa&quot;&gt;1f68a7f&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;styling fix&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;santi&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/65aa5723f8ccd91aa5e6fc18e93ad1960efa9449&quot;&gt;65aa572&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;bugfix&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;santi&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/635d77098a625f9eb446400b57ef40dd02547838&quot;&gt;635d770&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;static templates don't need controller and routing anymore&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;santi&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/223d868ebc60c8d01c3df2986b4be3a78418d3f6&quot;&gt;223d868&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of git@github.com:saucelabs/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;Jason Huggins&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/052c36b3662d6b20c06deee302d15124e039f7b6&quot;&gt;052c36b&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Flex-related Selenium products page&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;santi&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/0438637bf2b9303989b6f7d3443412dd5f0772e5&quot;&gt;0438637&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;fixing lists in wiki and bug tracker&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;santi&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/e412b1580235967396af6630083338af5a6f836e&quot;&gt;e412b15&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of git@github.com:saucelabs/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;strong&gt;&lt;span class='committer'&gt;santi&lt;/span&gt;&lt;/strong&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/sah/sauce/commit/501eb36fb9d6ee967bf2daa810b568f030906a26&quot;&gt;501eb36&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;fixing email problems in trac (by miki)&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>sah</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/151803275</id>
+    <published>2010-03-01T22:13:26-08:00</published>
+    <updated>2010-03-01T22:13:26-08:00</updated>
+    <link type="text/html" href="https://github.com/saucelabs/sauce/compare/1f68a7f1cd...6e552592ed" rel="alternate"/>
+    <title>sah pushed to master at saucelabs/sauce</title>
+    <content type="html">
+
+
+
+
+
+
+&lt;div class=&quot;details&quot;&gt;
+  
+
+  
+    &lt;div class=&quot;commits&quot;&gt;
+    &lt;ul&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/6e552592ed8ca9718af21c56596b974296e30dff&quot;&gt;6e55259&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:saucelabs/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/139ccdea9ab724c306c5f460ba34f08f02d2d64c&quot;&gt;139ccde&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:sah/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/ea137d2bbfdede72ea3d36fe3d80a9f88755203e&quot;&gt;ea137d2&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;attempt graceful recovery from failed firewall ops&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/8243bff9fc46a6fe2ba0678d63c71405cab7958b&quot;&gt;8243bff&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Scripts I use to deploy new node code.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/c73248eb67e4101d08e187a4933680bf796e3719&quot;&gt;c73248e&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Remnants be gone&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/df47c87f8a5a9218826135d2248e9ce246b03c84&quot;&gt;df47c87&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Run as the sauce user.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/fff1cd3787f9f86c10d03183198ff1be3435cafe&quot;&gt;fff1cd3&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;cloud side: minor pre-release API refactor, to prevent regrets&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/6920cada8e98eb4f95af77ae22602e2d055a9896&quot;&gt;6920cad&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;no-private-cloud config flag, so we can go back easily&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/893e7fd4dbb02fc33b3e3b52afa443d8e6b260db&quot;&gt;893e7fd&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:sah/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/8bbe8faeaaa9fcb53b0097515385654ed7fd5386&quot;&gt;8bbe8fa&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;minor pre-release API refactor, to prevent regrets&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/df303f33c23d19082797e75e1f0502997beec287&quot;&gt;df303f3&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Support 9 tunnel machines.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/ec2ae5e1ae56a5392a524a04a2cacd0bf33a1d60&quot;&gt;ec2ae5e&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Fixed payload error and added a debug command.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/malinidas&quot; class=&quot;committer&quot;&gt;malinidas&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/6900fb74e81a35bac09bb3b585718e3ffda6c3ef&quot;&gt;6900fb7&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of git@github.com:sah/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/malinidas&quot; class=&quot;committer&quot;&gt;malinidas&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/cc26af058b7b2b1c720ecb0816de21ed46df3ebe&quot;&gt;cc26af0&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;fixing reconnection issue when noded goes down&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/ab06c74aab243000601ecbe9f45f13424041d9bc&quot;&gt;ab06c74&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:sah/sauceConflicts:	test/lib/test_lwjp.py&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/sah&quot; class=&quot;committer&quot;&gt;sah&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/d9c6d55c80cd52969f02ad2a132ac53874664591&quot;&gt;d9c6d55&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;fixed lwjp binary&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/smcq&quot; class=&quot;committer&quot;&gt;smcq&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/c8aafeadc15476e6a5c307d93ccc0d9fd688c5ac&quot;&gt;c8aafea&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Merge branch 'master' of github.com:sah/sauce&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/smcq&quot; class=&quot;committer&quot;&gt;smcq&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/d91f74fef75310a6a7cba5123c08d9ea104627ca&quot;&gt;d91f74f&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;lwjp tests for the WIN&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/b6ea71c195164dce91af8b82cc97de311f513ed1&quot;&gt;b6ea71c&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;Minor cleanup and fixes.&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+      
+      &lt;li&gt;
+        
+          &lt;a href=&quot;http://github.com/brainsik&quot; class=&quot;committer&quot;&gt;brainsik&lt;/a&gt;
+        
+        committed
+        &lt;code&gt;&lt;a href=&quot;https://github.com/saucelabs/sauce/commit/bbedf4fcf9c132a664821b61e110eaa44afc120d&quot;&gt;bbedf4f&lt;/a&gt;&lt;/code&gt;
+
+        &lt;div class=&quot;message&quot;&gt;
+          &lt;blockquote&gt;An init.d script for noded&lt;/blockquote&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+    
+
+    
+      &lt;li class='more'&gt;
+      &lt;a href=&quot;/saucelabs/sauce/compare/1f68a7f1cd...6e552592ed&quot;&gt;196 more commits &amp;raquo;&lt;/a&gt;
+      &lt;/li&gt;
+    
+    &lt;/ul&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+
+
+</content>
+    <author>
+      <name>sah</name>
+    </author>
+  </entry>
+</feed>

@@ -5,15 +5,16 @@
            com.sun.syndication.io.XmlReader))
 
 (defn- entry [e]
-  {
-   :author (.getAuthor e)
-   :categories (into [] (.getCategories e))
-   :content-type (.getMode (.getDescription e))
-   :contents (.getValue (.getDescription e))
-   :link (.getLink e)
-   :published (.getPublishedDate e)
-   :title (.getTitle e)
-   :updated (.getUpdatedDate e)})
+  (let [content (or (.getDescription e) (nth (.getContents e) 0))]
+    {
+     :author (.getAuthor e)
+     :categories (into [] (.getCategories e))
+     :content-type (.getMode content)
+     :contents (.getValue content)
+     :link (.getLink e)
+     :published (.getPublishedDate e)
+     :title (.getTitle e)
+     :updated (.getUpdatedDate e)}))
 
 (defn parse [url]
   (let [url (new URL url)
