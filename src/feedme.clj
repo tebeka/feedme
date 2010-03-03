@@ -10,7 +10,7 @@
      :author (.getAuthor e)
      :categories (into [] (.getCategories e))
      :content-type (.getMode content)
-     :contents (.getValue content)
+     :content (.getValue content)
      :link (.getLink e)
      :published (.getPublishedDate e)
      :title (.getTitle e)
