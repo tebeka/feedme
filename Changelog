@@ -1,0 +1,6 @@
+feedme 0.0.2 (Sat Mar 06 18:04:21 2010 -0800)
+    * Categories as string vector
+    * :contents -> :content
+
+feedme 0.0.1 (Tue Mar 02 21:30:58 2010 -0800)
+    * Initial Release
