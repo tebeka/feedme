@@ -1,4 +1,4 @@
-(defproject feedme "0.0.1"
+(defproject feedme "0.0.2"
   :description "Easy access to RSS/Atom Feeds"
   :url "http://bitbucket.org/tebeka/feedme/"
   :repositories [["java.net" "http://download.java.net/maven/2/"]]
