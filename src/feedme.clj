@@ -8,7 +8,7 @@
   (let [content (or (.getDescription e) (nth (.getContents e) 0))]
     {
      :author (.getAuthor e)
-     :categories (into [] (.getCategories e))
+     :categories (into [] (map #(.getName %) (.getCategories e)))
      :content-type (.getMode content)
      :content (.getValue content)
      :link (.getLink e)
@@ -29,5 +29,4 @@
      :type (.getFeedType feed)
      :published (.getPublishedDate feed)
      :title (.getTitle feed)
-     :entries (map entry (.getEntries feed))
-     }))
+     :entries (map entry (.getEntries feed))}))
