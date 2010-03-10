@@ -1,0 +1,12 @@
+#!/bin/bash
+
+tests_dir=test/feedparser
+if [ -d $tests_dir ]; then
+    echo "error: tests already here"
+    exit 1
+fi
+
+mkdir -p $tests_dir
+cd $tests_dir
+curl -LO http://feedparser.googlecode.com/files/feedparser-tests-4.1.zip
+unzip feedparser-tests-4.1.zip
