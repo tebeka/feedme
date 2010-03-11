@@ -1,5 +1,6 @@
 (import 'java.io.File)
 (require 'feedme)
+(use 'clojure.contrib.duck-streams)
 
 (defn file? [f]
   (.isFile f))
@@ -25,3 +26,12 @@
     (try
       (feedme/parse (str "file://" file))
     (catch Exception e (println file)))))
+
+(defn obj-ok []
+  (doseq [uri (read-lines "failed.log")]
+    (try
+      (feedme/make-feed uri)
+      (println uri)
+    (catch Exception e))))
+
+(obj-ok)
