@@ -16,10 +16,14 @@
      :title (.getTitle e)
      :updated (.getUpdatedDate e)}))
 
-(defn parse [url]
+(defn- make-feed [url]
   (let [url (new URL url)
-        input (new SyndFeedInput)
-        feed (.build input (new XmlReader url))]
+        reader (new XmlReader url)
+        input (new SyndFeedInput)]
+    (.build input reader)))
+
+(defn parse [url]
+  (let [feed (make-feed url)]
     {
      ; FIXME: This can be probably done nicer with a macro
      :author (.getAuthor feed)
