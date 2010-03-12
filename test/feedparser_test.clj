@@ -21,17 +21,18 @@
 (defn xml-files [root]
   (filter #(.endsWith % ".xml") (file-list root)))
 
+(defn passes? [path]
+  (try
+    (feedme/parse (str "file://" path))
+    (catch Exception e nil)))
+
+
 (defn check []
-  (doseq [file (xml-files "test/feedparser/tests/wellformed/")]
-    (try
-      (feedme/parse (str "file://" file))
-    (catch Exception e (println file)))))
+  (let [files (xml-files "test/feedparser/tests/wellformed/")
+        num-files (count files)
+        num-ok (count (filter passes? files))
+        prec (* (/ num-ok num-files) 100)]
+    (println (format "[wellformed] Passing %d of %d (%.2f%%)" 
+                     num-ok num-ok (float prec)))))
 
-(defn obj-ok []
-  (doseq [uri (read-lines "failed.log")]
-    (try
-      (feedme/make-feed uri)
-      (println uri)
-    (catch Exception e))))
-
-(obj-ok)
+(check)
