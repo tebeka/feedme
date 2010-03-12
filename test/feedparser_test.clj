@@ -8,15 +8,8 @@
 (defn abs-path [f]
   (.getAbsolutePath f))
 
-(defn walk-tree [files]
-  (when-first [file files]
-    (if (file? file)
-      (lazy-cat (list file) (walk-tree (rest files)))
-      (lazy-cat (walk-tree (.listFiles file))
-                (walk-tree (rest files))))))
-
 (defn file-list [root]
-  (map abs-path (filter file? (walk-tree (.listFiles (new File root))))))
+  (map abs-path (filter file? (file-seq (new File root)))))
 
 (defn xml-files [root]
   (filter #(.endsWith % ".xml") (file-list root)))
