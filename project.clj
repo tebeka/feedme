@@ -2,6 +2,6 @@
   :description "Easy access to RSS/Atom Feeds"
   :url "http://bitbucket.org/tebeka/feedme/"
   :repositories [["java.net" "http://download.java.net/maven/2/"]]
-  :dependencies [[org.clojure/clojure "1.1.0"]
-                 [org.clojure/clojure-contrib "1.1.0"]
+  :dependencies [[org.clojure/clojure "1.2.0-RC1"]
+                 [org.clojure/clojure-contrib "1.2.0-RC1"]
                  [rome "1.0"]])
