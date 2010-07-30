@@ -1,6 +1,5 @@
 (import 'java.io.File)
 (require 'feedme)
-(use 'clojure.contrib.duck-streams)
 
 (defn file? [f]
   (.isFile f))
@@ -21,11 +20,12 @@
 
 
 (defn check []
-  (let [files (xml-files "test/feedparser/tests/wellformed/")
-        num-files (count files)
-        num-ok (count (filter passes? files))
-        prec (* (/ num-ok num-files) 100)]
-    (println (format "[wellformed] Passing %d of %d (%.2f%%)" 
-                     num-ok num-ok (float prec)))))
+  (let [files (xml-files "test/feedparser/tests/wellformed/")]
+    (when (not (empty? files))
+      (let [num-files (count files)
+            num-ok (count (filter passes? files))
+            prec (* (/ num-ok num-files) 100)]
+        (println (format "[wellformed] Passing %d of %d (%.2f%%)" 
+                         num-ok num-ok (float prec)))))))
 
 (check)
