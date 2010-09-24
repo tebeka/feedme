@@ -1,6 +1,6 @@
 syntax: glob
 
 lib
-feedme.jar
+feedme-*.jar
 pom.xml
 test/feedparser
