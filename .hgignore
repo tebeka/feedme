@@ -4,3 +4,4 @@ lib
 feedme-*.jar
 pom.xml
 test/feedparser
+README.html
