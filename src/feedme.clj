@@ -11,6 +11,7 @@
      :categories (into [] (map #(.getName %) (.getCategories e)))
      :content-type (.getMode content)
      :content (.getValue content)
+     :id (.getUri e)
      :link (.getLink e)
      :published (.getPublishedDate e)
      :title (.getTitle e)

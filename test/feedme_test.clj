@@ -17,5 +17,7 @@
         feed (parse uri)]
     (is (count (feed :entries)) 35)
     (is (:title feed) "Private Feed for mikitebeka")
+    (is (:id (nth (:entries feed) 0)) 
+        "tag:github.com,2008:PushEvent/153032941")
     (is (:title (nth (:entries feed) 0)) 
         "sah pushed to master at saucelabs/sauce")))
