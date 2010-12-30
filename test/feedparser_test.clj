@@ -26,6 +26,6 @@
             num-ok (count (filter passes? files))
             prec (* (/ num-ok num-files) 100)]
         (println (format "[wellformed] Passing %d of %d (%.2f%%)" 
-                         num-ok num-ok (float prec)))))))
+                         num-ok num-files (float prec)))))))
 
 (check)
