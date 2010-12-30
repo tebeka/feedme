@@ -1,5 +1,5 @@
-(defproject feedme "0.0.2"
-  :description "Easy access to RSS/Atom Feeds"
+(defproject feedme "0.0.3"
+  :description "RSS/Atom feed parser based on ROME"
   :url "http://bitbucket.org/tebeka/feedme/"
   :repositories {"java.net" "http://download.java.net/maven/2/"}
   :dependencies [[org.clojure/clojure "1.2.0"]
