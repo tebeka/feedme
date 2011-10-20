@@ -21,7 +21,7 @@
 
 (defn check []
   (let [files (xml-files "test/feedparser/tests/wellformed/")]
-    (when (not (empty? files))
+    (when-not (empty? files)
       (let [num-files (count files)
             num-ok (count (filter passes? files))
             prec (* (/ num-ok num-files) 100)]
